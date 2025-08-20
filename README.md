@@ -1,4 +1,4 @@
-# 👩‍💻 Asifa Khan  
+# Hi, I'm Asifa Khan 👋 
 
 **Frontend Developer | MERN Stack Learner | Tech Enthusiast**  
 
@@ -12,6 +12,7 @@
 
 <p align="left"> 
   <!-- Programming -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
